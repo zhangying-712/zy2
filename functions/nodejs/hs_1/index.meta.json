@@ -1,0 +1,17 @@
+{
+  "apiID": "package_1e47c8__c__function_aade7fdovs4ba",
+  "apiName": "hs_1",
+  "label": {
+    "zh_CN": "函数1",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "isPublicAPI": false,
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
